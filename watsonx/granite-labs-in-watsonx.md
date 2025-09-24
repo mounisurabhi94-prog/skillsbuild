@@ -1,4 +1,4 @@
-# Run IBM Granite Labs in IBM watsonx
+# Quickstart: Using IBM Granite on IBM watsonx.ai
 
 You can run any of the recipes in the [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook/blob/main/README.md) in IBM watsonx.
 
