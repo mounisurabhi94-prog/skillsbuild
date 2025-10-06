@@ -94,9 +94,9 @@ Foundation models are large-scale pre-trained models that serve as the base for 
 If you’re not sure how to begin, sample prompts can get you started. Follow these steps to use the sample prompts:
 
 1. Open the **Sample prompts** icon ![Sample prompts icon](images/sample-prompts-icon.svg "Sample prompts icon") to display the list.
-2. Scroll through the list, and click the **Marketing email generation** sample prompt.
+2. Scroll through the list, and click the **Claims processing generation** sample prompt.
 3. View the selected model. When you load a sample prompt, an appropriate model is selected for you.
-4. Click **Generate** to submit the sample prompt to the model, and see the sample email output.
+4. Click **Generate** to submit the sample prompt to the model, and see the sample output.
 5. Open the **Model Parameters** panel ![Model parameters icon](images/parameters.svg "Model parameters icon"). The appropriate decoding and stopping criteria parameters are set automatically. Explore changing model parameters to compare the output.</br>
     **Note:** The model parameters vary based on the currently selected model.
 6. Explore generating output using different sample prompts.
