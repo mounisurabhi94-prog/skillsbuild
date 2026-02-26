@@ -129,7 +129,7 @@ For the training data, you use several [college basketball playoff datasets](htt
 
 1. Click the **Assets** tab.
 
-1. Click the **Upload asset to project** icon ![Upload asset to project](/images/data--set.svg "Upload asset to project").
+1. Click the **Upload asset to project** icon ![Upload asset to project](../watsonx/images/data--set.svg "Upload asset to project").
 
 1. Drag the following files into the side panel, and wait for them to upload:
 
@@ -139,7 +139,7 @@ For the training data, you use several [college basketball playoff datasets](htt
    - cbbRegression.csv
    - cbbRegressionHalfData.csv
 
-1.  If necessary, click the **Refresh** icon ![Refresh](/images/refresh.svg "Refresh") to see the list of uploaded CSV files.
+1.  If necessary, click the **Refresh** icon ![Refresh](../watsonx/refresh.svg "Refresh") to see the list of uploaded CSV files.
 
 The following image shows the *Assets* tab in the project.
 
@@ -181,7 +181,7 @@ The following image shows the AutoAI experiment.
 
 1. Select **Data asset > cbb.csv**, and click **Select asset**.
 
-1. To view the training data, click the **Options** icon ![Options](/images/overflow-menu.svg "Options"), and then select **Preview data**. The data includes data for college basketball teams.
+1. To view the training data, click the **Options** icon ![Options](../watsonx/images/overflow-menu.svg "Options"), and then select **Preview data**. The data includes data for college basketball teams.
 
 1. Scroll to the right to see the *POSTSEASON* column. This column indicates where the team finished in previous seasons. The POSTSEASON is used as the prediction column for this experiment.
 
@@ -227,9 +227,9 @@ The following image shows the configured experiment.
 
 1. When the experiment completes, explore the *Relationship map* by hovering over each of the pipelines.
 
-1. Click the **Legend** icon ![Legend](/images/legend.svg "Legend"), and hover over each item in the legend to see that item on the *Relationship map*.
+1. Click the **Legend** icon ![Legend](../watsonx/images/legend.svg "Legend"), and hover over each item in the legend to see that item on the *Relationship map*.
 
-1. Click the **Rank preferences** icon ![Rank preferences](/images/parameters.svg "Rank preferences"), and change the *Score type* to **Holdout**.
+1. Click the **Rank preferences** icon ![Rank preferences](../watsonx/images/parameters.svg "Rank preferences"), and change the *Score type* to **Holdout**.
 
 The following image shows the completed experiment.
 
@@ -381,7 +381,7 @@ The following image shows the AutoAI experiment builder.
 
 1. Select **Data asset > cbbRegression.csv**, and click **Select asset**.
 
-1. To view the training data, click the **Options** icon ![Options](/images/overflow-menu.svg "Options"), and then select **Preview data**. The data includes data for college basketball teams.
+1. To view the training data, click the **Options** icon ![Options](../watsonx/images/overflow-menu.svg "Options"), and then select **Preview data**. The data includes data for college basketball teams.
 
 1. Scroll to the right to see the *POSTSEASON* column. This column indicates where the team finished in previous seasons. The POSTSEASON is used as the prediction column for this experiment.
 
@@ -427,9 +427,9 @@ The following image shows the configured experiment.
 
 1. When the experiment completes, explore the *Relationship map* by hovering over each of the pipelines.
 
-1. Click the **Legend** icon ![Legend](/images/legend.svg "Legend"), and hover over each item in the legend to see that item on the *Relationship map*.
+1. Click the **Legend** icon ![Legend](../watsonx/images/legend.svg "Legend"), and hover over each item in the legend to see that item on the *Relationship map*.
 
-1. Click the **Rank preferences** icon ![Rank preferences](/images/parameters.svg "Rank preferences"), and change the *Score type* to **Holdout**.
+1. Click the **Rank preferences** icon ![Rank preferences](../watsonx/images/parameters.svg "Rank preferences"), and change the *Score type* to **Holdout**.
 
 The following image shows the completed experiment.
 
@@ -508,7 +508,7 @@ The following image shows the *Promote to space* page with the CSV files selecte
 
 1. Back on the _Assets_ tab, open the model.
 2. Review the AI factsheet containing the relevant data about the model.
-3. Click the **Promote to space** icon ![Promote to space](/images/promote.svg "Promote to space").
+3. Click the **Promote to space** icon ![Promote to space](../watsonx/images/promote.svg "Promote to space").
 4. For the _Target space_, select the same deployment space where the datasets were promoted.
 5. Select the **Go to the model space after promoting it** option.
 6. Click **Promote**.
@@ -601,12 +601,12 @@ In this lab, you learned how to complete the following tasks:
 - [Overview of watsonx](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-wx.html?context=wx)
 - Find sample datasets, projects, models, prompts, and notebooks in the Resource Hub to gain hands-on experience:
 
-   ![Notebook](/images/notebook.svg "Notebook") [Notebooks](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=notebook) that you can add to your project to get started analyzing data and building models.
+   ![Notebook](../watsonx/images/notebook.svg "Notebook") [Notebooks](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=notebook) that you can add to your project to get started analyzing data and building models.
 
-   ![Project](/images/ibm-cloud--projects.svg "Project") [Projects](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=project-template) that you can import containing notebooks, datasets, prompts, and other assets.
+   ![Project](../watsonx/images/ibm-cloud--projects.svg "Project") [Projects](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=project-template) that you can import containing notebooks, datasets, prompts, and other assets.
 
-   ![Data sets](/images/data--set--32.svg "Data sets") [Datasets](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=dataset) that you can add to your project to refine, analyze, and build models.
+   ![Data sets](../watsonx/images/data--set--32.svg "Data sets") [Datasets](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=dataset) that you can add to your project to refine, analyze, and build models.
 
-   ![Prompt](/images/prompt.svg "Prompt") [Prompts](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=example-prompt) that you can use in the Prompt Lab to prompt a foundation model.
+   ![Prompt](../watsonx/images/prompt.svg "Prompt") [Prompts](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=example-prompt) that you can use in the Prompt Lab to prompt a foundation model.
 
-   ![Model](/images/model.svg "Model") [Foundation models](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=foundation-model) that you can use in the Prompt Lab.
+   ![Model](../watsonx/images/model.svg "Model") [Foundation models](https://dataplatform.cloud.ibm.com/gallery?context=wx&format=foundation-model) that you can use in the Prompt Lab.
