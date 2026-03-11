@@ -2,7 +2,7 @@
 
 # Overview
 
-This lab demonstrates the capabilities of predictive AI. Predictive AI involves using statistical analysis and machinelearning(ML) to identify patterns, anticipate behaviors, and forecast upcoming events. In this case, the lab shows you how to predict the results of an NCAA basketball tournament.
+This lab demonstrates the capabilities of predictive AI. Predictive AI involves using statistical analysis and machine learning (ML) to identify patterns, anticipate behaviors, and forecast upcoming events. In this case, the lab shows you how to predict the results of an NCAA basketball tournament.
 
 # Learning objectives
 
