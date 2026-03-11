@@ -547,9 +547,9 @@ The following image shows the model deployment.
     2. Click **Confirm**.
 1. Click **Predict**.
 1. On the *Prediction results* page, select **Show input data**.
-1. Review the predicted finish for each of the teams. The followingtable describes the meaning of each of the postseason scores.
+1. Review the predicted finish for each of the teams. The following table describes the meaning of each of the postseason scores; for example, A prediction of 1 indicates the team lost in R64, a prediction of 5 indicates that the team made it to the final four.
 
-   | Tournament Round | Postseason Score |
+   | Tournament Round | Prediction for postseason placement |
    | ----- | ----- |
    | No tournament/Lost in R68 | 0 |
    | Lost in R64 | 1 |
