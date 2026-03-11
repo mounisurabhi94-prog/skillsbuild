@@ -308,7 +308,7 @@ The following image shows the *Promote to space* page with the CSV files selecte
 2. Review the AI factsheet containing the relevant data about the model.
 3. Click **Promote to space**.
 4. For the _Target space_, select an existing space.
-5. Select the **Go to the model space after promoting it** option.
+5. Select the **Go to the model in the space after promoting it** option.
 5. Click **Promote**.
 
 The following image shows the model to be promoted to the space.
@@ -511,7 +511,7 @@ Now that you saved the best performing model to the project, follow these steps 
 2. Review the AI factsheet containing the relevant data about the model.
 3. Click the **Promote to space** icon ![Promote to space](../watsonx/images/promote.svg "Promote to space").
 4. For the _Target space_, select the same deployment space where the datasets were promoted.
-5. Select the **Go to the model space after promoting it** option.
+5. Select the **Go to the model in the space after promoting it** option.
 6. Click **Promote**.
 
 The following image shows the *Promote to space* page with the model selected.
