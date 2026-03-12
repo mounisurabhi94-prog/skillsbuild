@@ -83,6 +83,8 @@ When you sign up for a watsonx account, a sandbox project is created for you. Yo
    AI in sports
    ```
 
+1. Click **Create key** to create an API key.
+
 1. Click **Create**.
 
 The following image shows the *Overview* tab in the project.
