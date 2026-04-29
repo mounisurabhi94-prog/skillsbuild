@@ -41,6 +41,8 @@ You run a fictional business called **Roast Toast Coast Café**. To attract new 
 
 You write the initial version of the site yourself using basic HTML, CSS, and JavaScript.
 
+You can find this file to use in this tab here --> [Menu HTML](/file/Menu.html)
+
 <img src="./images/roast_toast.png" alt="Roast Toast" width="70%">
 
 ### Observed issues
